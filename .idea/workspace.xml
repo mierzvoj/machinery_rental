@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="afc033e3-ff7f-46fa-a2f1-0ae5b1a84220" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cVCSEl6Uam0AfDnuWpyZykqQqi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="pjatk" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pjatk.Main" />
+      <module name="machinery_rental" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pjatk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afc033e3-ff7f-46fa-a2f1-0ae5b1a84220" name="Default Changelist" comment="" />
+      <created>1590604371273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590604371273</updated>
+      <workItem from="1590604373523" duration="868000" />
+      <workItem from="1590605284050" duration="3125000" />
+      <workItem from="1590609005979" duration="1997000" />
+      <workItem from="1590614272737" duration="28000" />
+      <workItem from="1590614366417" duration="168000" />
+      <workItem from="1590614585155" duration="390000" />
+      <workItem from="1590615164696" duration="336000" />
+      <workItem from="1590615542566" duration="617000" />
+      <workItem from="1590616178919" duration="271000" />
+      <workItem from="1590616463265" duration="266000" />
+      <workItem from="1590616790796" duration="27000" />
+      <workItem from="1590616837417" duration="160000" />
+      <workItem from="1590617045901" duration="868000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="163" key="#Project_Structure" timestamp="1590605219741">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="432" y="163" key="#Project_Structure/-1440.0.1440.860/0.0.1680.1010@0.0.1680.1010" timestamp="1590605219741" />
+    <state x="645" y="206" key="#com.intellij.ide.util.MemberChooser" timestamp="1590609913403">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="645" y="206" key="#com.intellij.ide.util.MemberChooser/-1440.0.1440.860/0.0.1680.1010@0.0.1680.1010" timestamp="1590609913403" />
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1590617914900">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom/-1440.0.1440.860/0.0.1680.1010@0.0.1680.1010" timestamp="1590617914900" />
+    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1590617914900">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.center/-1440.0.1440.860/0.0.1680.1010@0.0.1680.1010" timestamp="1590617914900" />
+    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1590617914899">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.left/-1440.0.1440.860/0.0.1680.1010@0.0.1680.1010" timestamp="1590617914899" />
+    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1590617914900">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.right/-1440.0.1440.860/0.0.1680.1010@0.0.1680.1010" timestamp="1590617914900" />
+    <state x="320" y="79" key="SettingsEditor" timestamp="1590605309808">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="320" y="79" key="SettingsEditor/-1440.0.1440.860/0.0.1680.1010@0.0.1680.1010" timestamp="1590605309808" />
+  </component>
+</project>
